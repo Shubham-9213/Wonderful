@@ -1,0 +1,47 @@
+
+  .btn-search{
+    padding:0 1rem 0 1rem;
+    background-color: #fe424d;
+    color:#fff;
+    border-radius: 25px;
+    width:150px;
+  }
+  .btn-search:hover{
+    background-color: #fe424d;
+    color:#fff
+  }
+  .btn-search:i{
+    display:inline;
+    margin-right: 0.5rem;
+  }
+  .inp{
+    padding:12px 3rem 12px 3rem;
+    border:1px solid black !important;
+    font-size: large;
+    border-radius: 20px;
+  }
+  @media (max-width: 768px) {
+    .navbar-collapse {
+      background-color: #fff;
+      padding: 1rem;
+      border-radius: 10px;
+    }
+
+    .navbar-collapse .navbar-nav {
+      flex-direction: column;
+    }
+
+    .navbar-collapse .nav-link,
+    .navbar-collapse form {
+      margin-bottom: 10px;
+    }
+
+    .navbar-collapse .btn-search {
+      width: 100%;
+    }
+
+    .inp {
+      width: 100%;
+    }
+  }
+
