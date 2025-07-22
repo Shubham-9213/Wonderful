@@ -1,7 +1,7 @@
 # Airbnb Clone – Rental Property Web Application
 ## 📖 About the Project
 
-This is a full-stack web application inspired by Airbnb that allows users to list properties for rent and book available listings. The project includes core features like user authentication, image uploads, property management, and booking capabilities.
+This is a full-stack web application inspired by Airbnb that allows users to list properties for rent available listings. The project includes core features like user authentication, image uploads, property management.
 
 It is built using Node.js, Express.js, MongoDB, and EJS for server-side rendering. The goal is to simulate a simplified version of Airbnb and understand how large-scale platforms manage users, data, and real-time interactions.
 
